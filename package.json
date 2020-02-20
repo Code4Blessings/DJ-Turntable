@@ -1,8 +1,20 @@
 {
   "name": "DJ-Turntable",
   "version": "1.0.0",
+  "description": "Inspired by GraphQL Meetup #16 in Berlin https://www.youtube.com/watch?v=92aiK1sAerU&amp;list=UUptAHlN1gdwD89tFM3ENb6w",
   "main": "index.js",
-  "repository": "https://github.com/Code4Blessings/DJ-Turntable.git",
-  "author": "Code4Blessings <robinwarden@code4blessings.com>",
-  "license": "MIT"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code4Blessings/DJ-Turntable.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code4Blessings/DJ-Turntable/issues"
+  },
+  "homepage": "https://github.com/Code4Blessings/DJ-Turntable#readme"
 }
