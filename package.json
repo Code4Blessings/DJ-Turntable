@@ -1,0 +1,8 @@
+{
+  "name": "DJ-Turntable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Code4Blessings/DJ-Turntable.git",
+  "author": "Code4Blessings <robinwarden@code4blessings.com>",
+  "license": "MIT"
+}
